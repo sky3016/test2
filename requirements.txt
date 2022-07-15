@@ -50,7 +50,7 @@ DataProperty==0.43.1
 decorator==4.4.0
 defusedxml==0.6.0
 dfply==0.3.3
-distributed==2.1.0
+distributed==2021.10.0
 docutils==0.14
 entrypoints==0.3
 et-xmlfile==1.0.1
